@@ -1,5 +1,5 @@
 {
-    "pool": "stratum+tcp://nerdminers.org:3333",
+    "pool": "stratum+tcp://public-pool.io:21496",
     "algo": "sha256d",
     "wallet": "bc1q4ykna29s75usrktq57mvnc52xzrpgp963ucf8t",
     "pass": "x",
