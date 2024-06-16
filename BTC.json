@@ -3,6 +3,6 @@
     "algo": "sha256d",
     "wallet": "bc1q4ykna29s75usrktq57mvnc52xzrpgp963ucf8t",
     "pass": "x",
-    "name": "BTC-MINER",
+    "name": "ANDROID-MINER",
     "cpu": "8"
 }
