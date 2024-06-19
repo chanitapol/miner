@@ -1,5 +1,5 @@
 {
-    "pool": "stratum+tcp://retromike.net:4617",
+    "pool": "stratum+tcp://public-pool.io:21496",
     "algo": "sha256d",
     "wallet": "1AAZFFMo1zBsDUki35Cbd1SEYV5T2eSLz4",
     "pass": "x",
