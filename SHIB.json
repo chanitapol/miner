@@ -1,0 +1,8 @@
+{
+    "pool": "sha256.unmineale.com",
+    "algo": "sha256d",
+    "wallet": "0x106d66ce058a0dd498e518b377ae37457fc4ad19",
+    "pass": "x",
+    "name": "ANDROID-MINER",
+    "cpu": "8"
+}
