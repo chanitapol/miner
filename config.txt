@@ -17,6 +17,6 @@ analisarTendencia = S
 noticias = S
 
 [telegram]
-telegram_token = 
-telegram_id = 
+telegram_token = 6990541676:AAGqSV160osMSGrkYIjg7qiCGmSVRjDH0g8
+telegram_id = https://t.me/Zeno448
 usar_bot = N
