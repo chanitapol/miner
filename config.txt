@@ -1,6 +1,6 @@
 [GERAL]
-email = 
-senha = 
+email = yuldung17@gmail.com
+senha = nino8968140
 entrada = 100
 conta = PRACTICE
 # PRACTICE / REAL 
